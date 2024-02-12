@@ -27,4 +27,4 @@ This movie recommendation system holds potential applications in diverse scenari
 The project underscores the capabilities of NLP techniques in constructing effective recommendation systems. While recommendations for Comedy contexts exhibit high accuracy, there is an opportunity for refinement in specific contexts such as War and Finance. Continuous experimentation with different parameters and dataset expansions could further enhance the system's accuracy, extending its applications.
 
 Feel free to explore the project, contribute, or provide feedback and UpVote if you got to learn something from it! 
-<br>https://www.kaggle.com/code/rushanksheta/netflix-movie-recommendations-using-nlp?scriptVersionId=162565425
+<br>https://www.kaggle.com/code/rushanksheta/netflix-movie-recommendations-using-nlp
